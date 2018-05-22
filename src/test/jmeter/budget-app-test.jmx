@@ -42,7 +42,7 @@
           <collectionProp name="Arguments.arguments">
             <elementProp name="server" elementType="Argument">
               <stringProp name="Argument.name">server</stringProp>
-              <stringProp name="Argument.value">${__P(HOST,localhost)}</stringProp>
+              <stringProp name="Argument.value">${__P(HOST,34.202.231.234)}</stringProp>
               <stringProp name="Argument.metadata">=</stringProp>
             </elementProp>
             <elementProp name="port" elementType="Argument">
@@ -142,7 +142,7 @@
                 <collectionProp name="HeaderManager.headers">
                   <elementProp name="Referer" elementType="Header">
                     <stringProp name="Header.name">Referer</stringProp>
-                    <stringProp name="Header.value">http://localhost:8080/</stringProp>
+                    <stringProp name="Header.value">http://34.202.231.234:8080/</stringProp>
                   </elementProp>
                   <elementProp name="Accept-Language" elementType="Header">
                     <stringProp name="Header.name">Accept-Language</stringProp>
@@ -150,7 +150,7 @@
                   </elementProp>
                   <elementProp name="Origin" elementType="Header">
                     <stringProp name="Header.name">Origin</stringProp>
-                    <stringProp name="Header.value">http://localhost:8080</stringProp>
+                    <stringProp name="Header.value">http://34.202.231.234:8080</stringProp>
                   </elementProp>
                   <elementProp name="Content-Type" elementType="Header">
                     <stringProp name="Header.name">Content-Type</stringProp>
@@ -242,7 +242,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/dashboard</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/dashboard</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -302,7 +302,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/dashboard</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/dashboard</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -347,7 +347,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/dashboard</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/dashboard</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -392,7 +392,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/dashboard</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/dashboard</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -455,7 +455,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/dashboard</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/dashboard</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -527,7 +527,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/manage</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/manage</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -592,7 +592,7 @@
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/manage</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/manage</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -762,7 +762,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/categories</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/categories</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -822,7 +822,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/categories</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/categories</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -877,7 +877,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/budgets</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/budgets</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -922,7 +922,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/budgets</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/budgets</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -985,7 +985,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/recurrings</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/recurrings</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -1030,7 +1030,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/recurrings</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/recurrings</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -1085,7 +1085,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                   <collectionProp name="HeaderManager.headers">
                     <elementProp name="Referer" elementType="Header">
                       <stringProp name="Header.name">Referer</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080/reports</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080/reports</stringProp>
                     </elementProp>
                     <elementProp name="Accept-Language" elementType="Header">
                       <stringProp name="Header.name">Accept-Language</stringProp>
@@ -1093,7 +1093,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                     </elementProp>
                     <elementProp name="Origin" elementType="Header">
                       <stringProp name="Header.name">Origin</stringProp>
-                      <stringProp name="Header.value">http://localhost:8080</stringProp>
+                      <stringProp name="Header.value">http://34.202.231.234:8080</stringProp>
                     </elementProp>
                     <elementProp name="Content-Type" elementType="Header">
                       <stringProp name="Header.name">Content-Type</stringProp>
@@ -1123,7 +1123,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
           <AuthManager guiclass="AuthPanel" testclass="AuthManager" testname="HTTP Authorization Manager" enabled="false">
             <collectionProp name="AuthManager.auth_list">
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/transactions/summary?month=12&amp;year=2017</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/transactions/summary?month=12&amp;year=2017</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1131,7 +1131,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/categories/summary?month=12&amp;year=2017</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/categories/summary?month=12&amp;year=2017</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1139,7 +1139,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/transactions/monthly</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/transactions/monthly</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1147,7 +1147,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/transactions/today</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/transactions/today</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1155,7 +1155,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/users/usage?month=12&amp;year=2017</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/users/usage?month=12&amp;year=2017</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1163,7 +1163,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/users/account?month=12&amp;year=2017</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/users/account?month=12&amp;year=2017</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1171,7 +1171,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/app/partials/categories.html?1.0.4</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/app/partials/categories.html?1.0.4</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1179,7 +1179,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/categories</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/categories</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1187,7 +1187,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/app/partials/budgets.html?1.0.4</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/app/partials/budgets.html?1.0.4</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1195,7 +1195,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/budgets</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/budgets</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1203,7 +1203,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/app/partials/recurrings.html?1.0.4</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/app/partials/recurrings.html?1.0.4</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1211,7 +1211,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/recurrings</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/recurrings</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
@@ -1219,7 +1219,7 @@ vars.put(&quot;incomeBudgetId&quot;,JSON.stringify(incomeObj.id) );</stringProp>
                 <stringProp name="Authorization.mechanism">KERBEROS</stringProp>
               </elementProp>
               <elementProp name="" elementType="Authorization">
-                <stringProp name="Authorization.url">http://localhost:8080/api/reports/transactions</stringProp>
+                <stringProp name="Authorization.url">http://34.202.231.234:8080/api/reports/transactions</stringProp>
                 <stringProp name="Authorization.username">${AUTH_LOGIN}</stringProp>
                 <stringProp name="Authorization.password">${AUTH_PASSWORD}</stringProp>
                 <stringProp name="Authorization.domain"></stringProp>
