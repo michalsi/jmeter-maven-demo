@@ -41,6 +41,7 @@
                     <testFilesIncluded>
                       <jMeterTestFile>budget-app-test.jmx</jMeterTestFile>
                     </testFilesIncluded>
+                    <testResultsTimestamp>false</testResultsTimestamp>
                   </configuration>
             </plugin>
         </plugins>
